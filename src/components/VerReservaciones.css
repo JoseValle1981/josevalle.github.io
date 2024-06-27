@@ -1,0 +1,26 @@
+/* src/components/VerReservaciones.css */
+
+.ver-reservaciones {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .ver-reservaciones h1 {
+    color: #343a40;
+  }
+  
+  .ver-reservaciones ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .ver-reservaciones li {
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: left;
+  }
+  
